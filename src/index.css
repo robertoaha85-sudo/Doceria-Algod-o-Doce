@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  
+  --color-chocolate: #5A3A2E;
+  --color-cream: #F5E6D3;
+  --color-pastel-pink: #F8C8DC;
+}
